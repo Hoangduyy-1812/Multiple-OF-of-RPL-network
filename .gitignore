@@ -1,0 +1,4 @@
+obj_cooja/
+build/
+*.cooja
+*.map
